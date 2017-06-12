@@ -1000,21 +1000,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.025394, 50.729509 ]
-			},
-			"properties" : {
-				"temperature" : "21.6",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#FFA100",
-				"marker-size" : "small",
-				"fill" : "#ffa100"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.924648, 49.193725 ]
 			},
 			"properties" : {
@@ -1048,6 +1033,21 @@
 			"properties" : {
 				"temperature" : "21.899999999999999",
 				"source" : "Public",
+				"marker-color" : "#FFA100",
+				"marker-size" : "small",
+				"fill" : "#ffa100"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.025394, 50.729509 ]
+			},
+			"properties" : {
+				"temperature" : "22",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FF8600",
 				"marker-size" : "small",
 				"fill" : "#ff8600"
@@ -1242,7 +1242,7 @@
 				"coordinates" : [ -122.8556976, 49.0256058 ]
 			},
 			"properties" : {
-				"temperature" : "23.8",
+				"temperature" : "24",
 				"source" : "Don",
 				"marker-symbol" : "building",
 				"marker-color" : "#FF5000",
@@ -1366,12 +1366,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.021111, 50.725642 ]
+				"coordinates" : [ -120.282161, 50.654282 ]
 			},
 			"properties" : {
-				"temperature" : "26.1",
-				"source" : "Don",
-				"marker-symbol" : "building",
+				"temperature" : "26.199999999999999",
+				"source" : "Public",
 				"marker-color" : "#FF1A00",
 				"marker-size" : "small",
 				"fill" : "#ff1a00"
@@ -1381,11 +1380,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.282161, 50.654282 ]
+				"coordinates" : [ -120.021111, 50.725642 ]
 			},
 			"properties" : {
-				"temperature" : "26.199999999999999",
-				"source" : "Public",
+				"temperature" : "26.3",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FF1A00",
 				"marker-size" : "small",
 				"fill" : "#ff1a00"
