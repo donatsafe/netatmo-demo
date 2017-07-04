@@ -678,12 +678,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.8556976, 49.0256058 ]
+				"coordinates" : [ -123.542491, 48.693706 ]
 			},
 			"properties" : {
-				"temperature" : "19.8",
-				"source" : "Don",
-				"marker-symbol" : "building",
+				"temperature" : "19.800000000000001",
+				"source" : "Public",
 				"marker-color" : "#FFF200",
 				"marker-size" : "small",
 				"fill" : "#fff100"
@@ -707,10 +706,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.542491, 48.693706 ]
+				"coordinates" : [ -122.9162573, 49.14088 ]
 			},
 			"properties" : {
-				"temperature" : "19.800000000000001",
+				"temperature" : "19.899999999999999",
 				"source" : "Public",
 				"marker-color" : "#FFD700",
 				"marker-size" : "small",
@@ -721,11 +720,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9162573, 49.14088 ]
+				"coordinates" : [ -122.8556976, 49.0256058 ]
 			},
 			"properties" : {
-				"temperature" : "19.899999999999999",
-				"source" : "Public",
+				"temperature" : "20",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FFD700",
 				"marker-size" : "small",
 				"fill" : "#ffd600"
@@ -1004,7 +1004,7 @@
 				"coordinates" : [ -120.025394, 50.729509 ]
 			},
 			"properties" : {
-				"temperature" : "22.4",
+				"temperature" : "22.5",
 				"source" : "Don",
 				"marker-symbol" : "building",
 				"marker-color" : "#FF6B00",
@@ -1156,21 +1156,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.021111, 50.725642 ]
-			},
-			"properties" : {
-				"temperature" : "24",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#FF1A00",
-				"marker-size" : "small",
-				"fill" : "#ff1a00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -119.2833, 50.7 ]
 			},
 			"properties" : {
@@ -1190,6 +1175,21 @@
 			"properties" : {
 				"temperature" : "24.199999999999999",
 				"source" : "Public",
+				"marker-color" : "#FF1A00",
+				"marker-size" : "small",
+				"fill" : "#ff1a00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.021111, 50.725642 ]
+			},
+			"properties" : {
+				"temperature" : "24.4",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FF1A00",
 				"marker-size" : "small",
 				"fill" : "#ff1a00"
