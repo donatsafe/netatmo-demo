@@ -1014,14 +1014,29 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.8556976, 49.0256058 ]
+			},
+			"properties" : {
+				"temperature" : "20.8",
+				"source" : "Don",
+				"marker-symbol" : "building",
+				"marker-color" : "#FF5000",
+				"marker-size" : "small",
+				"fill" : "#ff5000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.1144419, 49.2786849 ]
 			},
 			"properties" : {
 				"temperature" : "20.800000000000001",
 				"source" : "Public",
-				"marker-color" : "#FF5000",
+				"marker-color" : "#FF3500",
 				"marker-size" : "small",
-				"fill" : "#ff5000"
+				"fill" : "#ff3500"
 			}
 		},
 		{
@@ -1033,21 +1048,6 @@
 			"properties" : {
 				"temperature" : "20.899999999999999",
 				"source" : "Public",
-				"marker-color" : "#FF3500",
-				"marker-size" : "small",
-				"fill" : "#ff3500"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.8556976, 49.0256058 ]
-			},
-			"properties" : {
-				"temperature" : "21",
-				"source" : "Don",
-				"marker-symbol" : "building",
 				"marker-color" : "#FF3500",
 				"marker-size" : "small",
 				"fill" : "#ff3500"
@@ -1184,11 +1184,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.847937, 50.751635 ]
+				"coordinates" : [ -120.025394, 50.729509 ]
 			},
 			"properties" : {
-				"temperature" : "25.600000000000001",
-				"source" : "Public",
+				"temperature" : "25.4",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FF0000",
 				"marker-size" : "small",
 				"fill" : "#ff0000"
@@ -1198,12 +1199,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.025394, 50.729509 ]
+				"coordinates" : [ -120.847937, 50.751635 ]
 			},
 			"properties" : {
-				"temperature" : "25.7",
-				"source" : "Don",
-				"marker-symbol" : "building",
+				"temperature" : "25.600000000000001",
+				"source" : "Public",
 				"marker-color" : "#FF0000",
 				"marker-size" : "small",
 				"fill" : "#ff0000"
