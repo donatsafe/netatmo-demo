@@ -174,11 +174,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.12098, 49.278928 ]
+				"coordinates" : [ -122.8556976, 49.0256058 ]
 			},
 			"properties" : {
-				"temperature" : "23.100000000000001",
-				"source" : "Public",
+				"temperature" : "23.1",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#35FF00",
 				"marker-size" : "small",
 				"fill" : "#35ff00"
@@ -189,6 +190,20 @@
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [ -123.1695794, 49.2422884 ]
+			},
+			"properties" : {
+				"temperature" : "23.100000000000001",
+				"source" : "Public",
+				"marker-color" : "#50FF00",
+				"marker-size" : "small",
+				"fill" : "#50ff00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.12098, 49.278928 ]
 			},
 			"properties" : {
 				"temperature" : "23.100000000000001",
@@ -249,20 +264,6 @@
 			"properties" : {
 				"temperature" : "23.600000000000001",
 				"source" : "Public",
-				"marker-color" : "#50FF00",
-				"marker-size" : "small",
-				"fill" : "#50ff00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -123.006762, 49.266839 ]
-			},
-			"properties" : {
-				"temperature" : "23.699999999999999",
-				"source" : "Public",
 				"marker-color" : "#6BFF00",
 				"marker-size" : "small",
 				"fill" : "#6bff00"
@@ -272,7 +273,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9598778, 49.2110465 ]
+				"coordinates" : [ -123.006762, 49.266839 ]
 			},
 			"properties" : {
 				"temperature" : "23.699999999999999",
@@ -300,12 +301,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.8556976, 49.0256058 ]
+				"coordinates" : [ -122.9598778, 49.2110465 ]
 			},
 			"properties" : {
-				"temperature" : "23.7",
-				"source" : "Don",
-				"marker-symbol" : "building",
+				"temperature" : "23.699999999999999",
+				"source" : "Public",
 				"marker-color" : "#6BFF00",
 				"marker-size" : "small",
 				"fill" : "#6bff00"
@@ -357,7 +357,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.40563380028, 48.669689147682 ]
+				"coordinates" : [ -122.79047107335001, 49.059161329688003 ]
 			},
 			"properties" : {
 				"temperature" : "24.199999999999999",
@@ -371,7 +371,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.79047107335001, 49.059161329688003 ]
+				"coordinates" : [ -123.40563380028, 48.669689147682 ]
 			},
 			"properties" : {
 				"temperature" : "24.199999999999999",
@@ -427,7 +427,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.586383, 49.247412 ]
+				"coordinates" : [ -123.112334, 49.258552 ]
 			},
 			"properties" : {
 				"temperature" : "24.5",
@@ -441,7 +441,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.112334, 49.258552 ]
+				"coordinates" : [ -122.586383, 49.247412 ]
 			},
 			"properties" : {
 				"temperature" : "24.5",
@@ -553,7 +553,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.21456386449999, 49.263904368687001 ]
+				"coordinates" : [ -122.545906, 49.106763 ]
 			},
 			"properties" : {
 				"temperature" : "25.199999999999999",
@@ -567,7 +567,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.545906, 49.106763 ]
+				"coordinates" : [ -122.9095, 49.23858 ]
 			},
 			"properties" : {
 				"temperature" : "25.199999999999999",
@@ -581,7 +581,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9095, 49.23858 ]
+				"coordinates" : [ -123.21456386449999, 49.263904368687001 ]
 			},
 			"properties" : {
 				"temperature" : "25.199999999999999",
@@ -637,6 +637,21 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -120.021111, 50.725642 ]
+			},
+			"properties" : {
+				"temperature" : "25.4",
+				"source" : "Don",
+				"marker-symbol" : "building",
+				"marker-color" : "#FFF200",
+				"marker-size" : "small",
+				"fill" : "#fff100"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -123.00361046182, 49.282472270535997 ]
 			},
 			"properties" : {
@@ -656,21 +671,6 @@
 			"properties" : {
 				"temperature" : "25.5",
 				"source" : "Public",
-				"marker-color" : "#FFF200",
-				"marker-size" : "small",
-				"fill" : "#fff100"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -120.021111, 50.725642 ]
-			},
-			"properties" : {
-				"temperature" : "25.5",
-				"source" : "Don",
-				"marker-symbol" : "building",
 				"marker-color" : "#FFF200",
 				"marker-size" : "small",
 				"fill" : "#fff100"
@@ -764,7 +764,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9238765, 49.2640278 ]
+				"coordinates" : [ -122.99896, 49.217858 ]
 			},
 			"properties" : {
 				"temperature" : "25.899999999999999",
@@ -806,7 +806,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.99896, 49.217858 ]
+				"coordinates" : [ -122.9238765, 49.2640278 ]
 			},
 			"properties" : {
 				"temperature" : "25.899999999999999",
@@ -820,7 +820,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.155473, 49.164591 ]
+				"coordinates" : [ -122.661955, 49.084244 ]
 			},
 			"properties" : {
 				"temperature" : "26",
@@ -834,7 +834,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.661955, 49.084244 ]
+				"coordinates" : [ -123.155473, 49.164591 ]
 			},
 			"properties" : {
 				"temperature" : "26",
@@ -904,7 +904,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9118249, 49.2644076 ]
+				"coordinates" : [ -122.99242827249, 49.268411958742 ]
 			},
 			"properties" : {
 				"temperature" : "26.600000000000001",
@@ -918,7 +918,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.99242827249, 49.268411958742 ]
+				"coordinates" : [ -122.9118249, 49.2644076 ]
 			},
 			"properties" : {
 				"temperature" : "26.600000000000001",
