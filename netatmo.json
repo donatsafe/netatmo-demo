@@ -23,7 +23,7 @@
 				"coordinates" : [ -120.025394, 50.729509 ]
 			},
 			"properties" : {
-				"temperature" : "19.7",
+				"temperature" : "19.8",
 				"source" : "Don",
 				"marker-symbol" : "building",
 				"marker-color" : "#00FF00",
@@ -108,7 +108,7 @@
 				"coordinates" : [ -122.8556976, 49.0256058 ]
 			},
 			"properties" : {
-				"temperature" : "22.1",
+				"temperature" : "22",
 				"source" : "Don",
 				"marker-symbol" : "building",
 				"marker-color" : "#1AFF00",
@@ -694,7 +694,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.81203, 49.10483 ]
+				"coordinates" : [ -123.111213, 49.235622 ]
 			},
 			"properties" : {
 				"temperature" : "26",
@@ -750,7 +750,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.111213, 49.235622 ]
+				"coordinates" : [ -122.81203, 49.10483 ]
 			},
 			"properties" : {
 				"temperature" : "26",
@@ -848,21 +848,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.021111, 50.725642 ]
-			},
-			"properties" : {
-				"temperature" : "26.5",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#FFF200",
-				"marker-size" : "small",
-				"fill" : "#fff100"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -119.2833, 50.7 ]
 			},
 			"properties" : {
@@ -896,9 +881,9 @@
 			"properties" : {
 				"temperature" : "26.7",
 				"source" : "Public",
-				"marker-color" : "#FFD700",
+				"marker-color" : "#FFF200",
 				"marker-size" : "small",
-				"fill" : "#ffd600"
+				"fill" : "#fff100"
 			}
 		},
 		{
@@ -924,6 +909,21 @@
 			"properties" : {
 				"temperature" : "26.8",
 				"source" : "Public",
+				"marker-color" : "#FFD700",
+				"marker-size" : "small",
+				"fill" : "#ffd600"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.021111, 50.725642 ]
+			},
+			"properties" : {
+				"temperature" : "26.8",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FFD700",
 				"marker-size" : "small",
 				"fill" : "#ffd600"
