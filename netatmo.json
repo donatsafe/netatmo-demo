@@ -723,7 +723,7 @@
 				"coordinates" : [ -122.8556976, 49.0256058 ]
 			},
 			"properties" : {
-				"temperature" : "20.3",
+				"temperature" : "20.4",
 				"source" : "Don",
 				"marker-symbol" : "building",
 				"marker-color" : "#FFD700",
@@ -959,12 +959,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.025394, 50.729509 ]
+				"coordinates" : [ -123.1319864, 49.2745289 ]
 			},
 			"properties" : {
 				"temperature" : "22.1",
-				"source" : "Don",
-				"marker-symbol" : "building",
+				"source" : "Public",
 				"marker-color" : "#FF6B00",
 				"marker-size" : "small",
 				"fill" : "#ff6b00"
@@ -974,11 +973,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -123.1319864, 49.2745289 ]
+				"coordinates" : [ -120.025394, 50.729509 ]
 			},
 			"properties" : {
-				"temperature" : "22.1",
-				"source" : "Public",
+				"temperature" : "22.2",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FF6B00",
 				"marker-size" : "small",
 				"fill" : "#ff6b00"
@@ -996,21 +996,6 @@
 				"marker-color" : "#FF6B00",
 				"marker-size" : "small",
 				"fill" : "#ff6b00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -120.021111, 50.725642 ]
-			},
-			"properties" : {
-				"temperature" : "22.3",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#FF5000",
-				"marker-size" : "small",
-				"fill" : "#ff5000"
 			}
 		},
 		{
@@ -1036,6 +1021,21 @@
 			"properties" : {
 				"temperature" : "22.5",
 				"source" : "Public",
+				"marker-color" : "#FF5000",
+				"marker-size" : "small",
+				"fill" : "#ff5000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.021111, 50.725642 ]
+			},
+			"properties" : {
+				"temperature" : "22.6",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FF5000",
 				"marker-size" : "small",
 				"fill" : "#ff5000"
