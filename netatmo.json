@@ -37,7 +37,7 @@
 				"coordinates" : [ -119.3667164, 50.8977266 ]
 			},
 			"properties" : {
-				"temperature" : "1.9",
+				"temperature" : "1.8",
 				"source" : "Public",
 				"marker-color" : "#50FF00",
 				"marker-size" : "small",
@@ -62,10 +62,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.363924834185, 50.679389427488 ]
+				"coordinates" : [ -119.643252, 50.868338 ]
 			},
 			"properties" : {
-				"temperature" : "1.9",
+				"temperature" : "2",
 				"source" : "Public",
 				"marker-color" : "#86FF00",
 				"marker-size" : "small",
@@ -76,10 +76,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -119.643252, 50.868338 ]
+				"coordinates" : [ -120.341106172378, 50.6663477486168 ]
 			},
 			"properties" : {
-				"temperature" : "2",
+				"temperature" : "2.2",
 				"source" : "Public",
 				"marker-color" : "#A1FF00",
 				"marker-size" : "small",
@@ -90,10 +90,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.341106172378, 50.6663477486168 ]
+				"coordinates" : [ -120.357413, 50.686258 ]
 			},
 			"properties" : {
-				"temperature" : "2.1",
+				"temperature" : "2.4",
 				"source" : "Public",
 				"marker-color" : "#BCFF00",
 				"marker-size" : "small",
@@ -118,10 +118,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.357413, 50.686258 ]
+				"coordinates" : [ -120.847802, 50.751574 ]
 			},
 			"properties" : {
-				"temperature" : "2.6",
+				"temperature" : "3.3",
 				"source" : "Public",
 				"marker-color" : "#F2FF00",
 				"marker-size" : "small",
@@ -132,11 +132,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.847802, 50.751574 ]
+				"coordinates" : [ -120.0298, 50.7279 ]
 			},
 			"properties" : {
-				"temperature" : "3.3",
-				"source" : "Public",
+				"temperature" : "16",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#FFF200",
 				"marker-size" : "small",
 				"fill" : "#fff100"
@@ -149,27 +150,12 @@
 				"coordinates" : [ -120.0298, 50.7279 ]
 			},
 			"properties" : {
-				"temperature" : "16.2",
+				"temperature" : "20.3",
 				"source" : "Don",
 				"marker-symbol" : "building",
 				"marker-color" : "#FFD700",
 				"marker-size" : "small",
 				"fill" : "#ffd600"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -120.0298, 50.7279 ]
-			},
-			"properties" : {
-				"temperature" : "20.4",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#FFBC00",
-				"marker-size" : "small",
-				"fill" : "#ffbb00"
 			}
 		},
 		{
@@ -182,9 +168,9 @@
 				"temperature" : "21.9",
 				"source" : "Don",
 				"marker-symbol" : "building",
-				"marker-color" : "#FFA100",
+				"marker-color" : "#FFBC00",
 				"marker-size" : "small",
-				"fill" : "#ffa100"
+				"fill" : "#ffbb00"
 			}
 		}
 	]
