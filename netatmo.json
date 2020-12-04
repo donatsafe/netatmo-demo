@@ -9,7 +9,7 @@
 				"coordinates" : [ -120.397171020508, 50.6489791870117 ]
 			},
 			"properties" : {
-				"temperature" : "-1.4",
+				"temperature" : "-1.5",
 				"source" : "Public",
 				"marker-color" : "#1AFF00",
 				"marker-size" : "small",
@@ -23,7 +23,7 @@
 				"coordinates" : [ -120.735702514648, 50.8869018554688 ]
 			},
 			"properties" : {
-				"temperature" : "1.4",
+				"temperature" : "1.7000000000000002",
 				"source" : "Public",
 				"marker-color" : "#35FF00",
 				"marker-size" : "small",
@@ -37,7 +37,7 @@
 				"coordinates" : [ -119.265924, 50.71255 ]
 			},
 			"properties" : {
-				"temperature" : "1.7000000000000002",
+				"temperature" : "1.8",
 				"source" : "Public",
 				"marker-color" : "#50FF00",
 				"marker-size" : "small",
@@ -51,7 +51,7 @@
 				"coordinates" : [ -119.693025, 50.803958 ]
 			},
 			"properties" : {
-				"temperature" : "1.9",
+				"temperature" : "2.3",
 				"source" : "Public",
 				"marker-color" : "#6BFF00",
 				"marker-size" : "small",
@@ -65,7 +65,7 @@
 				"coordinates" : [ -120.847802, 50.751574 ]
 			},
 			"properties" : {
-				"temperature" : "3.1",
+				"temperature" : "3.2",
 				"source" : "Public",
 				"marker-color" : "#86FF00",
 				"marker-size" : "small",
@@ -76,11 +76,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.547698974609, 50.5583000183105 ]
+				"coordinates" : [ -120.0298, 50.7279 ]
 			},
 			"properties" : {
-				"temperature" : "5.7",
-				"source" : "Public",
+				"temperature" : "19.3",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#A1FF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
@@ -90,42 +91,13 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -120.341106172378, 50.6663477486168 ]
+				"coordinates" : [ -120.0298, 50.7279 ]
 			},
 			"properties" : {
-				"temperature" : "8.6",
-				"source" : "Public",
+				"temperature" : "20.2",
+				"source" : "Don",
+				"marker-symbol" : "building",
 				"marker-color" : "#BCFF00",
-				"marker-size" : "small",
-				"fill" : "#000000"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -120.0298, 50.7279 ]
-			},
-			"properties" : {
-				"temperature" : "19",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#D7FF00",
-				"marker-size" : "small",
-				"fill" : "#000000"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -120.0298, 50.7279 ]
-			},
-			"properties" : {
-				"temperature" : "20.1",
-				"source" : "Don",
-				"marker-symbol" : "building",
-				"marker-color" : "#F2FF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
 			}
@@ -137,10 +109,10 @@
 				"coordinates" : [ -120.021111, 50.725642 ]
 			},
 			"properties" : {
-				"temperature" : "24.8",
+				"temperature" : "23.8",
 				"source" : "Don",
 				"marker-symbol" : "building",
-				"marker-color" : "#FFF200",
+				"marker-color" : "#D7FF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
 			}
