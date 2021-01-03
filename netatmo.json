@@ -6,12 +6,54 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -119.266739, 50.694991 ]
+			},
+			"properties" : {
+				"temperature" : "1.7000000000000002",
+				"source" : "Public",
+				"marker-color" : "#1AFF00",
+				"marker-size" : "small",
+				"fill" : "#000000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -120.847802, 50.751574 ]
 			},
 			"properties" : {
-				"temperature" : "2.2",
+				"temperature" : "2.4",
 				"source" : "Public",
-				"marker-color" : "#1AFF00",
+				"marker-color" : "#35FF00",
+				"marker-size" : "small",
+				"fill" : "#000000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.4384916, 50.9044167 ]
+			},
+			"properties" : {
+				"temperature" : "2.5",
+				"source" : "Public",
+				"marker-color" : "#50FF00",
+				"marker-size" : "small",
+				"fill" : "#000000"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -120.547698974609, 50.5583000183105 ]
+			},
+			"properties" : {
+				"temperature" : "3.2",
+				"source" : "Public",
+				"marker-color" : "#6BFF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
 			}
@@ -23,10 +65,10 @@
 				"coordinates" : [ -120.0298, 50.7279 ]
 			},
 			"properties" : {
-				"temperature" : "17",
+				"temperature" : "17.2",
 				"source" : "Don",
 				"marker-symbol" : "building",
-				"marker-color" : "#35FF00",
+				"marker-color" : "#86FF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
 			}
@@ -41,7 +83,7 @@
 				"temperature" : "20.2",
 				"source" : "Don",
 				"marker-symbol" : "building",
-				"marker-color" : "#50FF00",
+				"marker-color" : "#A1FF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
 			}
@@ -56,7 +98,7 @@
 				"temperature" : "22.5",
 				"source" : "Don",
 				"marker-symbol" : "building",
-				"marker-color" : "#6BFF00",
+				"marker-color" : "#BCFF00",
 				"marker-size" : "small",
 				"fill" : "#000000"
 			}
